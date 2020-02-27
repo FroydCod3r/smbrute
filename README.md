@@ -17,3 +17,6 @@ Requisitos:
 
     Ubuntu/Debian: sudo apt install smbclient
     
+
+
+@newfroyd & @kuruminhacat
